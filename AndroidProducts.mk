@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lavender.mk
+    $(LOCAL_DIR)/shirayuki_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_lavender-user \
-    superior_lavender-userdebug \
-    superior_lavender-eng
+    shirayuki_lavender-user \
+    shirayuki_lavender-userdebug \
+    shirayuki_lavender-eng

@@ -1,4 +1,4 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_lavender.mk
+    $(LOCAL_DIR)/shirayuki_lavender.mk
 
-COMMON_LUNCH_CHOICES := superior_lavender-userdebug
+COMMON_LUNCH_CHOICES := shirayuki_lavender-userdebug
